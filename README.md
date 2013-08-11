@@ -1,4 +1,6 @@
 qqgift
 ======
 
-auto sent QQ gift
+定时分秒，自动送礼
+
+比较糙...
